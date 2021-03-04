@@ -1,0 +1,3 @@
+include ':excel'
+include ':app'
+rootProject.name = "ExcelFJava"
